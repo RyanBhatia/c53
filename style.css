@@ -1,0 +1,39 @@
+h1{color:#FF3300;
+margin-left: 30px;}
+
+
+.name{
+    background-color: #990059;
+
+    display:flex;
+    justify-content: space-between;
+}
+
+.game{
+display:flex;
+justify-content: space-evenly;
+}
+
+h3,p{
+    text-align: center;
+}
+
+body{
+    background-color: #526678;
+}
+
+.footer{
+    margin-top: 310px;
+}
+
+.item:hover img{
+opacity:0.33
+}
+
+.memo a{
+    color:#ffffff
+}
+
+.memo a:visited{
+color: blue
+}
